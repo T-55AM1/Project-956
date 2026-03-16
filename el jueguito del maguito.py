@@ -1,4 +1,4 @@
-numero_secreto = 777
+numero_secreto = 777 #constante
 
 print(
 """
@@ -8,13 +8,13 @@ print(
 |¿cual es el numero secreto?     |
 +================================+
 """)
-while  True:
+while  True: #condicion de bucle
     num = int(input("pon un numero..."))
 
-    if num == numero_secreto:
+    if num == numero_secreto: #primer if
          print("felicidades eres libre")
          break
-    else:
+    else: #si no se cumple el if
          print("jas jas, atrapado,vuelve a intentarlo...")
    
         
