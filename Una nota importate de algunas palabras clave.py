@@ -1,0 +1,1 @@
+print('Nombres proibidos para nombrar variables y funciones: False, None, True, and, as, assert, break, class, continue, def, del, \n elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, \n with, yield')
